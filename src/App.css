@@ -1,0 +1,12 @@
+#root {
+  margin: 0 auto;
+}
+
+.app {
+  width: 400px;
+  background-color: rgb(255, 255, 255);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
